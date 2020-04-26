@@ -35,7 +35,7 @@ export default function App() {
         coordinate={{
         latitude: lat,
         longitude: lng}}
-        title='Haaga-Helia' />
+        title={hakusana} />
     </MapView>
   <View style={styles.hakuView}>
     <TextInput
