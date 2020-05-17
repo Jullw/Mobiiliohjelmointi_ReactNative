@@ -1,0 +1,13 @@
+Projektina on mp3 soitin, johon on kovakoodattu kolme kappaletta ja kuvaa benson.com :ista. 
+Käyttää expo audio kirjastoa, jolla pystyy hallinnoimaan mp3 tiedostoja.
+
+Mp3 soittimessa on toiminnallisuuksina: 
+
+1. Soita kappale
+2. Pysäytä kappale
+3. Vaihda kappale
+4. Säädä äänenvoimakkuutta
+
+
+Projektissa on myös Kanye Westin sanontaja hakeva rest api.
+Sanonnat voidaan tallentaa tietokantaan ja poistaa tietokannasta painamalla pitkään sanomaa. 
